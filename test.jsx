@@ -1,9 +1,14 @@
-const String = "Hello World";
-//export here if u want to ecport onle this func and not the whole jsx right?
+import React from 'react';
+
 export const test = () => {
-    knp
-    return ({
-        knp
-    })
+    const denis = "string"
+    return (
+        <div>
+            denis
+        </div>
+
+    );
 }
-export default test;
+
+
+but yo
